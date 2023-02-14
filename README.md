@@ -1,5 +1,8 @@
 # iris-ml-app
 
+![Alt text](/iris_img.png)
+
+<br>
 
 ## But
 
